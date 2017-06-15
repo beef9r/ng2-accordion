@@ -1,6 +1,6 @@
 {
-  "name": "ngx-accordion",
-  "version": "0.0.17",
+  "name": "@projektionisten/ngx-accordion",
+  "version": "0.1.6",
   "description": "Simple accordion control for your angular2 applications using bootstrap3.",
   "license": "MIT",
   "readmeFilename": "README.md",
@@ -34,13 +34,13 @@
     "@angular/core": "^2.0.0"
   },
   "devDependencies": {
-    "@angular/common": "^2.4.3",
-    "@angular/compiler": "^2.4.3",
-    "@angular/compiler-cli": "^2.4.3",
-    "@angular/core": "^2.4.3",
-    "@angular/forms": "^2.4.3",
-    "@angular/platform-browser": "^2.4.3",
-    "@angular/platform-browser-dynamic": "^2.4.3",
+    "@angular/common": "^4.2.2",
+    "@angular/compiler": "^4.2.2",
+    "@angular/compiler-cli": "^4.2.2",
+    "@angular/core": "^4.2.2",
+    "@angular/forms": "^4.2.2",
+    "@angular/platform-browser": "^4.2.2",
+    "@angular/platform-browser-dynamic": "^4.2.2",
     "@types/node": "^7.0.0",
     "bootstrap": "^3.3.7",
     "chai": "^3.4.1",
@@ -65,6 +65,7 @@
     "tslint": "^4.3.1",
     "tslint-stylish": "^2.1.0-beta",
     "typescript": "^2.1.5",
-    "zone.js": "^0.7.6"
+    "zone.js": "^0.7.6",
+    "codelyzer": "3.0.1"
   }
 }
